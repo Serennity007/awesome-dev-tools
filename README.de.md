@@ -136,7 +136,7 @@ Schauen Sie sich diese verwandten Projekte an:
 - **[awesome-skills](https://github.com/liangzhengtao/awesome-skills)** — Kuratierte KI-Skills-Sammlung
 - **[awesome-ai-rules](https://github.com/liangzhengtao/awesome-ai-rules)** — KI-Regeln und Prompts
 - **[vibe-check](https://github.com/liangzhengtao/vibe-check)** — Überprüfen Sie die Stimmung Ihres Projekts
-- **[commit-ai](https://github.com/liangzhengtao/commit-ai)** — KI-gesteuerte Commit-Nachrichten
+- **[ai-commit](https://github.com/Serennity007/ai-commit)** — KI-gesteuerte Commit-Nachrichten
 - **[awesome-mcp-servers](https://github.com/liangzhengtao/awesome-mcp-servers)** — MCP-Server-Sammlung
 
 ---

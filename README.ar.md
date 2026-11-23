@@ -136,7 +136,7 @@ Screenshot: CleanShot X (macOS) / ShareX (Windows)
 - **[awesome-skills](https://github.com/liangzhengtao/awesome-skills)** - مجموعة مهارات AI منتقاة
 - **[awesome-ai-rules](https://github.com/liangzhengtao/awesome-ai-rules)** - قواعد ونماذج AI
 - **[vibe-check](https://github.com/liangzhengtao/vibe-check)** - تحقق من أجواء مشروعك
-- **[commit-ai](https://github.com/liangzhengtao/commit-ai)** - رسائل commit مدعومة بالـ AI
+- **[ai-commit](https://github.com/Serennity007/ai-commit)** - رسائل commit مدعومة بالـ AI
 - **[awesome-mcp-servers](https://github.com/liangzhengtao/awesome-mcp-servers)** - مجموعة خوادم MCP
 
 ---

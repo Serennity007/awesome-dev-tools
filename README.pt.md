@@ -136,7 +136,7 @@ Confira estes projetos relacionados:
 - **[awesome-skills](https://github.com/liangzhengtao/awesome-skills)** - Coleção curada de habilidades IA
 - **[awesome-ai-rules](https://github.com/liangzhengtao/awesome-ai-rules)** - Regras e prompts de IA
 - **[vibe-check](https://github.com/liangzhengtao/vibe-check)** - Verifique o clima do seu projeto
-- **[commit-ai](https://github.com/liangzhengtao/commit-ai)** - Mensagens de commit com IA
+- **[ai-commit](https://github.com/Serennity007/ai-commit)** - Mensagens de commit com IA
 - **[awesome-mcp-servers](https://github.com/liangzhengtao/awesome-mcp-servers)** - Coleção de servidores MCP
 
 ---

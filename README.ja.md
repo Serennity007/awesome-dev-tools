@@ -136,7 +136,7 @@ API:       Bruno（GUI）+ httpie（CLI）
 - **[awesome-skills](https://github.com/liangzhengtao/awesome-skills)** - 厳選AIスキルコレクション
 - **[awesome-ai-rules](https://github.com/liangzhengtao/awesome-ai-rules)** - AIルールとプロンプト
 - **[vibe-check](https://github.com/liangzhengtao/vibe-check)** - プロジェクトの状態チェック
-- **[commit-ai](https://github.com/liangzhengtao/commit-ai)** - AI搭載コミットメッセージ
+- **[ai-commit](https://github.com/Serennity007/ai-commit)** - AI搭載コミットメッセージ
 - **[awesome-mcp-servers](https://github.com/liangzhengtao/awesome-mcp-servers)** - MCPサーバーコレクション
 
 ---

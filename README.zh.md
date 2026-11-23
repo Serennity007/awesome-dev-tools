@@ -120,7 +120,7 @@ Shell：   tmux + direnv + asdf
 - **[awesome-skills](https://github.com/liangzhengtao/awesome-skills)** - 精选 AI 技能集合
 - **[awesome-ai-rules](https://github.com/liangzhengtao/awesome-ai-rules)** - AI 规则和提示词
 - **[vibe-check](https://github.com/liangzhengtao/vibe-check)** - 检查项目状态
-- **[commit-ai](https://github.com/liangzhengtao/commit-ai)** - AI 驱动的提交信息
+- **[ai-commit](https://github.com/Serennity007/ai-commit)** - AI 驱动的提交信息
 - **[awesome-mcp-servers](https://github.com/liangzhengtao/awesome-mcp-servers)** - MCP 服务器集合
 
 ---

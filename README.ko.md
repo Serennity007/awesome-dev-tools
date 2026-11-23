@@ -136,7 +136,7 @@ Screenshot: CleanShot X (macOS) / ShareX (Windows)
 - **[awesome-skills](https://github.com/liangzhengtao/awesome-skills)** - 엄선된 AI 스킬 컬렉션
 - **[awesome-ai-rules](https://github.com/liangzhengtao/awesome-ai-rules)** - AI 규칙 및 프롬프트
 - **[vibe-check](https://github.com/liangzhengtao/vibe-check)** - 프로젝트의 분위기 확인
-- **[commit-ai](https://github.com/liangzhengtao/commit-ai)** - AI 기반 커밋 메시지
+- **[ai-commit](https://github.com/Serennity007/ai-commit)** - AI 기반 커밋 메시지
 - **[awesome-mcp-servers](https://github.com/liangzhengtao/awesome-mcp-servers)** - MCP 서버 컬렉션
 
 ---
