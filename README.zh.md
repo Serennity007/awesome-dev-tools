@@ -51,7 +51,7 @@ $ cd /very/long/path/to/project             $ z project
 |------|------|------|------|
 | 🔤 **终端模拟器** | 终端应用 | Warp, Alacritty, Kitty, WezTerm, iTerm2, Windows Terminal | [→](tools/终端工具/terminal-emulators.md) |
 | 🐚 **Shell 工具** | Shell 增强 | zsh, fish, starship, zoxide, fzf, ripgrep, fd, bat, eza, delta | [→](tools/终端工具/shell-tools.md) |
-| ⚡ **CLI 效率** | 命令行效率 | tmux, jq, yq, httpie, lazygit, lazydocker, tldr, navi, direnv, asdf | [→](tools/终端工具/cli-productivity.md) |
+| ⚡ **CLI 效率** | 命令行效率 | tmux, jq, yq, httpie, lazygit, lazydocker, tldr, navi, direnv, asdf, flisk | [→](tools/终端工具/cli-productivity.md) |
 | 📝 **VS Code** | VS Code 扩展 | 20 个必备扩展：语言、Git、AI、主题、效率 | [→](tools/编辑器/vscode-extensions.md) |
 | 💻 **Neovim** | Neovim 配置 | LazyVim, AstroNvim, NvChad, LSP, 插件, 快捷键 | [→](tools/编辑器/neovim-setup.md) |
 | 🤖 **AI 编程助手** | AI 编程工具 | Cursor, Copilot, Claude Code, Kimi Code, Windsurf, Cline | [→](tools/AI工具/ai-coding-assistants.md) |

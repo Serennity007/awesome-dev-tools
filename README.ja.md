@@ -65,7 +65,7 @@ $ cd /very/long/path/to/project             $ z project
 |----------|-------------|-------|------|
 | 🔤 **ターミナルエミュレータ** | ターミナルアプリ | Warp, Alacritty, Kitty, WezTerm, iTerm2, Windows Terminal | [→](tools/终端工具/terminal-emulators.md) |
 | 🐚 **シェルツール** | シェル強化 | zsh, fish, starship, zoxide, fzf, ripgrep, fd, bat, eza, delta | [→](tools/终端工具/shell-tools.md) |
-| ⚡ **CLI効率化** | CLI生産性 | tmux, jq, yq, httpie, lazygit, lazydocker, tldr, navi, direnv, asdf | [→](tools/终端工具/cli-productivity.md) |
+| ⚡ **CLI効率化** | CLI生産性 | tmux, jq, yq, httpie, lazygit, lazydocker, tldr, navi, direnv, asdf, flisk | [→](tools/终端工具/cli-productivity.md) |
 | 📝 **VS Code** | VS Code拡張機能 | 言語、Git、AI、テーマ、生産性向けTop 20拡張 | [→](tools/编辑器/vscode-extensions.md) |
 | 💻 **Neovim** | Neovimセットアップ | LazyVim, AstroNvim, NvChad, LSP、プラグイン、キーバインド | [→](tools/编辑器/neovim-setup.md) |
 | 🤖 **AIコーディングアシスタント** | AIプログラミングツール | Cursor, Copilot, Claude Code, Kimi Code, Windsurf, Cline | [→](tools/AI工具/ai-coding-assistants.md) |

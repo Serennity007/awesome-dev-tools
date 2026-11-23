@@ -65,7 +65,7 @@ $ cd /very/long/path/to/project             $ z project
 |----------|-------------|-------|------|
 | 🔤 **터미널 에뮬레이터** | 터미널 에뮬레이터 | Warp, Alacritty, Kitty, WezTerm, iTerm2, Windows Terminal | [→](tools/终端工具/terminal-emulators.md) |
 | 🐚 **셸 도구** | 셸 향상 | zsh, fish, starship, zoxide, fzf, ripgrep, fd, bat, eza, delta | [→](tools/终端工具/shell-tools.md) |
-| ⚡ **CLI 생산성** | CLI 생산성 도구 | tmux, jq, yq, httpie, lazygit, lazydocker, tldr, navi, direnv, asdf | [→](tools/终端工具/cli-productivity.md) |
+| ⚡ **CLI 생산성** | CLI 생산성 도구 | tmux, jq, yq, httpie, lazygit, lazydocker, tldr, navi, direnv, asdf, flisk | [→](tools/终端工具/cli-productivity.md) |
 | 📝 **VS Code** | VS Code 확장 | 언어, git, AI, 테마, 생산성을 위한 상위 20개 확장 | [→](tools/编辑器/vscode-extensions.md) |
 | 💻 **Neovim** | Neovim 설정 | LazyVim, AstroNvim, NvChad, LSP, 플러그인, 키바인딩 | [→](tools/编辑器/neovim-setup.md) |
 | 🤖 **AI 코딩 어시스턴트** | AI 코딩 도우미 | Cursor, Copilot, Claude Code, Kimi Code, Windsurf, Cline | [→](tools/AI工具/ai-coding-assistants.md) |

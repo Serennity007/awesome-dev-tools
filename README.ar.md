@@ -65,7 +65,7 @@ $ cd /very/long/path/to/project             $ z project
 |----------|-------------|-------|------|
 | 🔤 **محاكي الطرفية** | محاكيات الطرفية | Warp, Alacritty, Kitty, WezTerm, iTerm2, Windows Terminal | [→](tools/终端工具/terminal-emulators.md) |
 | 🐚 **أدوات Shell** | تحسين Shell | zsh, fish, starship, zoxide, fzf, ripgrep, fd, bat, eza, delta | [→](tools/终端工具/shell-tools.md) |
-| ⚡ **كفاءة CLI** | إنتاجية واجهة سطر الأوامر | tmux, jq, yq, httpie, lazygit, lazydocker, tldr, navi, direnv, asdf | [→](tools/终端工具/cli-productivity.md) |
+| ⚡ **كفاءة CLI** | إنتاجية واجهة سطر الأوامر | tmux, jq, yq, httpie, lazygit, lazydocker, tldr, navi, direnv, asdf, flisk | [→](tools/终端工具/cli-productivity.md) |
 | 📝 **VS Code** | إضافات VS Code | أفضل 20 إضافة للغات، git، AI، السمات، الإنتاجية | [→](tools/编辑器/vscode-extensions.md) |
 | 💻 **Neovim** | إعداد Neovim | LazyVim, AstroNvim, NvChad, LSP, الإضافات، روابط المفاتيح | [→](tools/编辑器/neovim-setup.md) |
 | 🤖 **مساعدو البرمجة بالـ AI** | مساعدو البرمجة بالذكاء الاصطناعي | Cursor, Copilot, Claude Code, Kimi Code, Windsurf, Cline | [→](tools/AI工具/ai-coding-assistants.md) |

@@ -25,6 +25,7 @@
 | **navi** | 文档 | 交互式命令备忘录 | Rust | 交互式 |
 | **direnv** | 环境管理 | 目录级环境变量 | Go | 自动 |
 | **asdf** | 版本管理 | 统一运行时版本管理 | 多语言 | 命令行 |
+| **flisk** | 本地开发环境 | 一键生成并启动多服务本地环境（MCP 集成） | TypeScript | 命令行 + MCP |
 
 ## Quick Start
 
@@ -359,6 +360,25 @@ cat .tool-versions
 # nodejs 18.19.0
 # python 3.11.7
 ```
+
+### Flisk (Local Dev Environment)
+
+```bash
+# 安装（需要 Node.js 22.12+）
+npm install -g @flisk-sh/flisk
+
+# 在已有项目目录中启动整个本地栈
+cd my-project
+flisk up
+
+# 无 Docker 的快速试用
+npx @flisk-sh/flisk@latest demo
+```
+
+**核心优势：**
+- 从现有项目生成 Dockerfile 与本地编排配置，一条命令启动 API、前端、worker 和数据库
+- `flisk mcp` 提供 25 个工具的 MCP 服务器，Claude Code、Codex、Cursor 等 agent 可启动、检查、修复本地环境
+- MIT 开源，npm 全局安装；小应用可不用 Docker，完整栈需要 Docker + Tilt，`flisk doctor` 会提示缺失依赖
 
 ## Workflow Examples
 

@@ -65,7 +65,7 @@ Wenn Sie wenig Zeit haben, fangen Sie mit diesen fünf an — sie bieten den gr�
 |----------|-------------|-------|------|
 | 🔤 **Terminalemulator** | Terminalemulatoren | Warp, Alacritty, Kitty, WezTerm, iTerm2, Windows Terminal | [→](tools/终端工具/terminal-emulators.md) |
 | 🐚 **Shell-Tools** | Shell-Verbesserung | zsh, fish, starship, zoxide, fzf, ripgrep, fd, bat, eza, delta | [→](tools/终端工具/shell-tools.md) |
-| ⚡ **CLI-Produktivität** | CLI-Produktivität | tmux, jq, yq, httpie, lazygit, lazydocker, tldr, navi, direnv, asdf | [→](tools/终端工具/cli-productivity.md) |
+| ⚡ **CLI-Produktivität** | CLI-Produktivität | tmux, jq, yq, httpie, lazygit, lazydocker, tldr, navi, direnv, asdf, flisk | [→](tools/终端工具/cli-productivity.md) |
 | 📝 **VS Code** | VS Code-Erweiterungen | Top-20-Erweiterungen für Sprachen, Git, KI, Themes, Produktivität | [→](tools/编辑器/vscode-extensions.md) |
 | 💻 **Neovim** | Neovim-Einrichtung | LazyVim, AstroNvim, NvChad, LSP, Plugins, Tastenkürzel | [→](tools/编辑器/neovim-setup.md) |
 | 🤖 **KI-Coding-Assistenten** | KI-Coding-Helfer | Cursor, Copilot, Claude Code, Kimi Code, Windsurf, Cline | [→](tools/AI工具/ai-coding-assistants.md) |

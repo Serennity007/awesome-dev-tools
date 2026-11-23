@@ -65,7 +65,7 @@ $ cd /very/long/path/to/project             $ z project
 |----------|-------------|-------|------|
 | 🔤 **Эмулятор терминала** | Эмуляторы терминала | Warp, Alacritty, Kitty, WezTerm, iTerm2, Windows Terminal | [→](tools/终端工具/terminal-emulators.md) |
 | 🐚 **Инструменты Shell** | Улучшение оболочки | zsh, fish, starship, zoxide, fzf, ripgrep, fd, bat, eza, delta | [→](tools/终端工具/shell-tools.md) |
-| ⚡ **Продуктивность CLI** | Продуктивность командной строки | tmux, jq, yq, httpie, lazygit, lazydocker, tldr, navi, direnv, asdf | [→](tools/终端工具/cli-productivity.md) |
+| ⚡ **Продуктивность CLI** | Продуктивность командной строки | tmux, jq, yq, httpie, lazygit, lazydocker, tldr, navi, direnv, asdf, flisk | [→](tools/终端工具/cli-productivity.md) |
 | 📝 **VS Code** | Расширения VS Code | Топ-20 расширений для языков, git, ИИ, тем, продуктивности | [→](tools/编辑器/vscode-extensions.md) |
 | 💻 **Neovim** | Настройка Neovim | LazyVim, AstroNvim, NvChad, LSP, плагины, привязки клавиш | [→](tools/编辑器/neovim-setup.md) |
 | 🤖 **ИИ-ассистенты для кода** | ИИ-помощники в кодировании | Cursor, Copilot, Claude Code, Kimi Code, Windsurf, Cline | [→](tools/AI工具/ai-coding-assistants.md) |
