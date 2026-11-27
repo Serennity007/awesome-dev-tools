@@ -22,6 +22,7 @@ AI 效率工具正在重新定义开发者的工作方式：
 | **bolt.new** | 应用生成 | 全栈应用生成 | 快速 MVP | Free / 付费 |
 | **Cursor Composer** | 代码生成 | 跨文件代码编辑 | 大规模代码修改 | 包含在 Cursor 中 |
 | **Replit Agent** | 应用生成 | AI 驱动开发环境 | 快速原型、学习 | Free / $25/月 |
+| **ChatSequel** | 浏览器扩展 | ChatGPT 自动续接、分标签控制与上下文交接 | 长对话工作流 | Free |
 
 ## Quick Start
 
@@ -181,6 +182,15 @@ AI 效率工具正在重新定义开发者的工作方式：
 - 小型项目部署
 - 团队协作
 ```
+
+### ChatSequel
+
+**免费浏览器扩展，用于让 ChatGPT 长对话自动续接。**
+
+- Chrome：[安装](https://chromewebstore.google.com/detail/chatsequel-chatgpt-auto-c/cdkihfdcmchokmfbpeglffiiknmmjdcj) · Edge：[安装](https://microsoftedge.microsoft.com/addons/detail/chatsequel-chatgpt-auto/fopnncmcgdhkgbpkfcfncfhlggloniom)
+- 功能：可配置的续接延迟、倒计时与续接次数上限；每个标签页独立暂停、恢复、停止；把当前对话的工作简报交接给新会话
+- 适用于需要连续多次追问的长工作流；不是 OpenAI 官方产品（由 Prax9 独立开发）
+- 与手动点击"继续"相比，它只提供可配置的计时与分标签控制，不声称任何性能或质量提升
 
 ## Tips
 
