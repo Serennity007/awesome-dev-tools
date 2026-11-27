@@ -1,16 +1,32 @@
 [English](README.md) | [中文](README.zh.md) | [日本語](README.ja.md) | [Français](README.fr.md) | [Español](README.es.md) | [العربية](README.ar.md) | [한국어](README.ko.md) | [Português](README.pt.md) | [Русский](README.ru.md) | [Deutsch](README.de.md)
 
-<div dir="rtl" align="center">
+<a id="top"></a>
 
-# 🛠️ 中文版
+<div align="center">
+
+<img src=".banner.svg" width="100%" alt="banner">
+
+</div>
+
+
+<div align="center">
+
+# 🛠️ Awesome Dev Tools — 中文版
 
 **你早该知道的开发者工具箱。50+ 工具，分类整理。**
 
 精心策划的开发者工具集合，助你提升生产力。
 
+[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
+[![Tools](https://img.shields.io/badge/Tools-50+-orange.svg)](#-工具总览)
+
 </div>
 
 ---
+
+
 
 ## 使用前 vs 使用后
 
@@ -127,6 +143,10 @@ Shell：   tmux + direnv + asdf
 
 <div align="center">
 
-**[⬆ 回到顶部](#-中文版)**
+**[⬆ 回到顶部](#top)**
 
 Made with ❤️ by [liangzhengtao](https://github.com/liangzhengtao)
+
+</div>
+
+---

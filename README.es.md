@@ -1,5 +1,7 @@
 [English](README.md) | [中文](README.zh.md) | [日本語](README.ja.md) | [Français](README.fr.md) | [Español](README.es.md) | [العربية](README.ar.md) | [한국어](README.ko.md) | [Português](README.pt.md) | [Русский](README.ru.md) | [Deutsch](README.de.md)
 
+<a id="top"></a>
+
 <div align="center">
 
 <img src=".banner.svg" width="100%" alt="banner">
@@ -18,7 +20,7 @@ Una colección curada de herramientas de desarrollo que impulsan la productivida
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
-[![Tools](https://img.shields.io/badge/Tools-50+-orange.svg)](#-tools-overview)
+[![Tools](https://img.shields.io/badge/Tools-50+-orange.svg)](#-resumen-de-herramientas)
 
 </div>
 
@@ -143,7 +145,7 @@ Consulta estos proyectos relacionados:
 
 <div align="center">
 
-**[⬆ Volver arriba](#-awesome-dev-tools)**
+**[⬆ Volver arriba](#top)**
 
 </div>
 
